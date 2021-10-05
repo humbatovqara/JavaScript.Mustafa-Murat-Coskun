@@ -31,5 +31,5 @@ math.cube(4); // istifadə edə bilmirik - prototype-ə baxdıqda həmin funksiy
 Riyaziyyat.sqrt(5); // istifadə edə bilmirik - statik olmadığı üçün birbaşa istifadə edə bilmirik
 // İstifadə edə bilmək üçün mütləq object yaratmaq lazımdı. Statik metodlar üçün object yaratmaq lazım deyil
 
-// Objectşcreate() metodu özü elə statikdir - yəni create funksiyası Object daxilinə static yazılmışdır
+// Object.create() metodu özü elə statikdir - yəni create funksiyası Object daxilinə static yazılmışdır
 // Math.sqrt() - eyni ilə.
