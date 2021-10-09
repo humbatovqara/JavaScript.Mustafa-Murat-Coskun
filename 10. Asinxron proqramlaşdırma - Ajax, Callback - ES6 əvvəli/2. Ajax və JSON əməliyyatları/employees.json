@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Hümbətov Qara",
+        "department" : "IT",
+        "salary" : 1500
+    },
+    {
+        "name" : "Rəfizadə Ülvi",
+        "department" : "Business",
+        "salary" : 3000
+    },
+    {
+        "name" : "Ramazanov Nurlan",
+        "department" : "IT",
+        "salary" : 4500
+    }
+]
