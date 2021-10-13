@@ -1,4 +1,3 @@
-/*
 function getData(data) { // Promise Object verən funksiya
     return new Promise(function (resolve, reject) {
         setTimeout(function () {
@@ -16,7 +15,6 @@ function getData(data) { // Promise Object verən funksiya
         }, 5000);
     });
 }
-*/
 
 // console.log(getData("Hello"));
 
@@ -40,11 +38,9 @@ getData(12).then(function (response) {
 });
 */
 
-/*
 getData(12)
     .then(response => console.log("Dəyər: " + response))
     .catch(err => console.error(err));
-*/
 
 
 
