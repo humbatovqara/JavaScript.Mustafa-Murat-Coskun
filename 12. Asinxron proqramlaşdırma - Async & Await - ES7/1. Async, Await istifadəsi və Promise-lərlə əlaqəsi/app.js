@@ -84,4 +84,4 @@ async function getCurrency(url) {
 }
 
 getCurrency("https://jsonplaceholder.typicode.com/posts")
-.then(response => console.log(response));
+    .then(response => console.log(response));
